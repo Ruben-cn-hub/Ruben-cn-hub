@@ -4,9 +4,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuaTQ5MmdsM25oMmIyaTZ0eWh2emRqbGIxcGtyYTgxaDdrdGVubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pfs0sp8Tc6fk3L802s/giphy.gif" alt="Jim Halpert de The Office" width="400px" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruben-omar-canul-noh&color=blueviolet&style=flat-square" alt="Visitas" />
-</p>
 
 ## Sobre Mí
 Soy un apasionado del desarrollo de software y la tecnología. Me enfoco en crear soluciones eficientes, escribir código limpio y aprender constantemente nuevas herramientas para mejorar mis habilidades.
