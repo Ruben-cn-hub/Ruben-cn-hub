@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ruben Omar Canul Noh 👋
+# Ruben Omar Canul Noh
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuaTQ5MmdsM25oMmIyaTZ0eWh2emRqbGIxcGtyYTgxaDdrdGVubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pfs0sp8Tc6fk3L802s/giphy.gif" alt="Jim Halpert de The Office" width="400px" />
