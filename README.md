@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=ruben-omar-canul-noh&color=blueviolet&style=flat-square" alt="Visitas" />
 </p>
 
-## 🚀 Sobre Mí
+## Sobre Mí
 Soy un apasionado del desarrollo de software y la tecnología. Me enfoco en crear soluciones eficientes, escribir código limpio y aprender constantemente nuevas herramientas para mejorar mis habilidades.
 
-- 🎯 **Objetivo actual:** Desarrollar proyectos innovadores y seguir creciendo profesionalmente.
-- 💡 **Intereses:** Desarrollo Web, Bases de Datos y Optimización de Procesos.
+- **Objetivo actual:** Desarrollar proyectos innovadores y seguir creciendo profesionalmente.
+- **Intereses:** Desarrollo Web, Bases de Datos y Optimización de Procesos.
 
 ---
 
