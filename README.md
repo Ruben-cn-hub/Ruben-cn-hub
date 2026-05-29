@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo de software y la tecnología. Me enfoco en crea
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-Aquí tienes algunas de las tecnologías que estoy aprendiendo:
+Algunas de las tecnologías que estoy aprendiendo:
 
 | Desarrollo Frontend | Desarrollo Backend | Herramientas y BD |
 | :--- | :--- | :--- |
